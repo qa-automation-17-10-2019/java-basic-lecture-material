@@ -1,4 +1,4 @@
-package hillel.lecture2;
+package com.basic.hillel.lecture2;
 
 /**
  * Created by alpa on 10/19/19
